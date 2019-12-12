@@ -17,3 +17,6 @@ https://stepik.org/course/67/syllabus
 
 
 3 - Functions. Dictionaries. Interpreter. Files. Modules.
+3.1 - Functions.
+3.2 - Dictionaries.
+3.4 - File input / output.
